@@ -1,2 +1,2 @@
-simpsonprj,2022-12-31
-lequieuprj,2024-12-31
+curieprj,2022-12-31
+vonneumannprj,2024-12-31
