@@ -1573,7 +1573,7 @@ def main():
     args = parser.parse_args()
 
     if args.version:
-        print(f'slurm_accounting {__version__}')
+        print(f'slurm_accounting_free {__version__}')
         sys.exit(0)
 
     if args.debug:
@@ -1590,7 +1590,7 @@ def main():
 
     year, month = [int(p) for p in period_str.split('-')]
 
-    print(f'slurm_accounting: generating statements for {year}-{month:02d}')
+    print(f'slurm_accounting_free: generating statements for {year}-{month:02d}')
 
     if debug_p:
         reports_dir = Path(f'RCM/{year}-{month:02d}')
@@ -1599,7 +1599,7 @@ def main():
         reports_dir = Path(f'{args.reports_prefix}/{year}-{month:02d}')
 
     if args.verbose:
-        print(f'slurm_accounting: reports_dir = {reports_dir}')
+        print(f'slurm_accounting_free: reports_dir = {reports_dir}')
 
     courses = read_courses(Path(f'{args.reports_prefix}') / 'courses.txt')
     if debug_p:
