@@ -8,3 +8,7 @@ This code almost certainly will not work without comprehensive modification
 to fit your own institution’s job accounting setup. This codebase should
 be used only as a reference for one possible way to do things.
 
+## Example run
+```
+slurm_accounting_free --when=2023-12
+```
