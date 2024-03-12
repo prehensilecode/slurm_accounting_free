@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+delorean = "*"
+fiscalyear = "*"
+ldap3 = "*"
+weasyprint = "==52.5"
+numpy = "*"
+pandas = "*"
+xmltodict = "*"
+fonttools = "*"
+mccabe = "*"
+tzdata = "*"
+seaborn = "*"
+slurm-accounting = {editable = true, path = "."}
+
+[dev-packages]
+python-lsp-server = "*"
+epc = "*"
+importmagic = "*"
+flake8 = "*"
+slurm-accounting = {editable = true, path = "."}
+
+[requires]
+python_version = "3.10"

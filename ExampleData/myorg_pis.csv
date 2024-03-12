@@ -1,0 +1,7 @@
+﻿Date,Last Name,First Name,User ID,Project,College,Department,Email,Phone,Notes,Active?,Non-MyOrg?,MRI?,Fund code,Org code,Expiration,Previous codes,Other Codes,,,,,,,,,,,,,
+2013-02-01,Einstein,Albert,ae001,einsteinPrj,College of Arts and Sciences,Physics,ae001@myuniversity.edu,111.222.3333,,1,0,0,111111,2222,,,,,,,,,,,,,,,,
+2013-02-01,Noether,Emmy,enoether,noetherPrj,College of Arts and Sciences,Mathematics,enoether@myuniversity.edu,111.222.4444,,1,0,0,111113,2222,,,,,,,,,,,,,,,,
+2013-02-01,Lovelace,Ada,al002,lovelacePrj,College of Engineering,Computer Science,al002@myuniversity.edu,111.222.5555,,1,0,0,111114,2223,,,,,,,,,,,,,,,,
+2013-02-01,Feynman,Richard,rf003,feynmanPrj,College of Arts and Sciences,Physics,rf003@myuniversity.edu,111.222.6666,,0,0,1,,,,222222-3333,,,,,,,,,,,,,,
+2013-02-01,Curie,Marie,mc004,curiePrj,College of Arts and Sciences,Chemistry,mc004@myuniversity.edu,111.222.7777,,1,0,0,333333,2222,,,,,,,,,,,,,,,,
+2013-02-01,von Neumann,John,jvn005,vonneumannPrj,College of Arts and Sciences,Mathematics,jvn005@myuniversity.edu,111.222.8888,,0,0,0,,,,,,,,,,,,,,,,,,
