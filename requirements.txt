@@ -33,6 +33,6 @@ six==1.16.0
 tinycss2==1.2.1
 tzdata==2022.7
 tzlocal==4.2
-WeasyPrint==52.5
+WeasyPrint>=68.0
 webencodings==0.5.1
 zopfli==0.2.2
